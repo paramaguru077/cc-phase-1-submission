@@ -1,1 +1,0 @@
-# cc-phase-1-submission
